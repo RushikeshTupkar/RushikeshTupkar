@@ -22,6 +22,24 @@
 <a href="https://www.leetcode.com/rushikeshtupkar438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rushikeshtupkar438" height="30" width="40" /></a>
 </p>
 
+
+
+
+<h2>Tools Used</h2>
+<p> 
+  <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
+ <img alt="Postman" height="80" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
+  <img alt="MySQL" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
+  <img alt="AWS" height="80"width="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHh7PNuA9yT-5EmSjEgAgWIS75qns2X5RgQ&usqp=CAU">
+  <img alt="Swagger" height="80" src="https://static1.smartbear.co/swagger/media/blog/swagger-editor-blog_575x300.png?ext=.png">
+<img alt="Termius" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
+  <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
+  <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
